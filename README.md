@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=rect&color=gradient&height=100&section=header&text=See%20you%20👋&fontSize=40&animation=twinkling)
+-->
